@@ -1,4 +1,5 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat simple projek mobile app with flutter
--
+- Membuat tutorial simple ethical hacking materi
+- Membuat kolaborasi dengan banyak developer mobile app yang sudah expert
