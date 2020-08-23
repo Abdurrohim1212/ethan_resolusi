@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Konsisten untuk membuat konten 2x seminggu
+- Membuat simple projek mobile app with flutter
+-
