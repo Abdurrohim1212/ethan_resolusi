@@ -2,7 +2,11 @@ RENCANA KONTEN ETHAN
 - Javascript
   * ES6
   * Framework Javascript
+   > React
+   > Vue
 - Fundamental Data Structure
 - PHP Framework
+   > laravel
 - Interview
 - Vlog
+- Python
