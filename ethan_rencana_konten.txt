@@ -4,6 +4,7 @@ RENCANA KONTEN ETHAN
   * Framework Javascript
    > React
    > Vue
+   > Angular
 - Fundamental Data Structure
 - PHP Framework
    > laravel
