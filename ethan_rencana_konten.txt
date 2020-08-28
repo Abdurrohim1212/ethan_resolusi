@@ -11,3 +11,5 @@ RENCANA KONTEN ETHAN
 - Interview
 - Vlog
 - Python
+- Ethical hacking
+- flutter
